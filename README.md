@@ -1,4 +1,4 @@
-# Video Stream
+# Shizuka <img src="https://wallpaperaccess.com/full/5324143.jpg" alt="RELEASE">
 An Advanced VC Video Player created for playing video in the voice chats of Telegram Groups And Channel
 
 # Configs
@@ -28,13 +28,11 @@ ADMIN - Your User ID Get From [@MissRose_bot](https://t.me/MissRose_bot)
 
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
-### 💜 Railway - use at own risk
 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/lntechnical2/videostream&envs=CHAT,SESSION_NAME,API_ID,API_HASH,TOKEN,ADMIN)
 
 ### 💜 Heroku - simplest way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/videostream)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/redmoon0x/Shizuka.git)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
