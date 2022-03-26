@@ -1,12 +1,12 @@
 {
-    "name": "Video Stream ",
+    "name": "Shizuka",
     "description": "Video Stream Telegram Bot",
     "keywords": [
         "Video Stream ",
         "pytgcalss"
     ],
-    "repository": "https://github.com/lntechnical2/videostream",
-    "success_url": "https://telegram.dog/lntechnical",
+    "repository": "https://github.com/redmoon0x/Shizuka.git",
+    "success_url": "https://telegram.dog/redmoon0x",
     "env": {
         "CHAT": {
             "description": "Channel or Group user Name With @",
