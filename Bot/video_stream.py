@@ -73,7 +73,8 @@ async def livestream(client, m: Message):
 				             	VIDEO_CALL[CHAT] = group_call
 				             	await m.reply("**Started  Streaming!**")
 				             except Exception as e:
-				             	await m.reply(enta savaaaaaaaaaa -- `{e}`")
+				             	await m.reply(f"**Error** -- `{e}`")
+				             	
 				             	
 					
 			else:
@@ -84,7 +85,8 @@ async def livestream(client, m: Message):
 			         		VIDEO_CALL[CHAT] = group_call
 			         		await m.reply("** Started Streaming!**")
 			         	except Exception as e:
-			         	    	await m.reply(enta savaaaaaaa-- `{e}`")
+			         	    		await m.reply(f"**Error** -- `{e}`")
+				             	
 
 
 
@@ -95,4 +97,5 @@ async def stop (client, m: Message):
 	       await VIDEO_CALL[CHAT].stop()
 	       await m.reply("** Stopped Streaming!**")
 	except Exception as e:
-		await m.reply(yabaaaaaa - `{e}`")
+			await m.reply(f"**Error** -- `{e}`")
+				             	
