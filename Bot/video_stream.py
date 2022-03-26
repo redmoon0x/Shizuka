@@ -64,7 +64,7 @@ async def livestream(client, m: Message):
 				             try:
 				             	video_url = ytdl(link).besturl()
 				             except Exception as e:
-				             	await m.reply(f"**Error** -- `{e}`")
+				             	await m.reply(entada shoot madbek a?? -- `{e}`")
 				             	return
 				             try:
 				             	group_call = group_call_factory.get_group_call()
@@ -73,7 +73,7 @@ async def livestream(client, m: Message):
 				             	VIDEO_CALL[CHAT] = group_call
 				             	await m.reply("**Started  Streaming!**")
 				             except Exception as e:
-				             	await m.reply(f"**Error** -- `{e}`")
+				             	await m.reply(enta savaaaaaaaaaa -- `{e}`")
 				             	
 					
 			else:
@@ -84,7 +84,7 @@ async def livestream(client, m: Message):
 			         		VIDEO_CALL[CHAT] = group_call
 			         		await m.reply("** Started Streaming!**")
 			         	except Exception as e:
-			         	    	await m.reply(f"**Error** -- `{e}`")
+			         	    	await m.reply(enta savaaaaaaa-- `{e}`")
 
 
 
@@ -95,4 +95,4 @@ async def stop (client, m: Message):
 	       await VIDEO_CALL[CHAT].stop()
 	       await m.reply("** Stopped Streaming!**")
 	except Exception as e:
-		await m.reply(f"**Error** - `{e}`")
+		await m.reply(yabaaaaaa - `{e}`")
