@@ -64,6 +64,6 @@ async def stop (client, m: Message):
 	if status in cmd_user:
 	       try:
 	       	await VIDEO_CALL[m.chat.id].stop()
-	       	await m.reply("** Stopped Streaming!**")
+	       	await m.reply("** om shaanti...!**")
 	       except Exception as e:
 	       	await m.reply(f"**Error** - `{e}`")
