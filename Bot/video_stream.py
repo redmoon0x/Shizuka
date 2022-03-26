@@ -64,7 +64,7 @@ async def livestream(client, m: Message):
 				             try:
 				             	video_url = ytdl(link).besturl()
 				             except Exception as e:
-				             	await m.reply(entada shoot madbek a?? -- `{e}`")
+				             	await m.reply(f"**Error** -- `{e}`")
 				             	return
 				             try:
 				             	group_call = group_call_factory.get_group_call()
